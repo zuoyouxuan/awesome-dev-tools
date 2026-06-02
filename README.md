@@ -44,6 +44,7 @@ _Browser-based tools that need no installation._
 - [Excalidraw](https://excalidraw.com/) — Virtual whiteboard for sketching diagrams and architectures.
 - [CodeSandbox](https://codesandbox.io/) — Online IDE for rapid web prototyping.
 - [QR Code Generator](https://calnex.pro/en_US/tools/qr_code_generator) — Custom QR codes with colors, sizes, and formats.
+- [**TinyTools**](https://tinytools-smoky.vercel.app/) — 9 free single-purpose browser utilities (domain name gen, OG image gen, AI background remover, favicon gen, color palette gen, SEO meta tag gen, AI cost calculator, EU AI Act disclosure gen, robots.txt gen). All client-side, no signup, open source.
 
 ## API Development
 
