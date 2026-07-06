@@ -120,6 +120,7 @@ _Browser-based tools that need no installation._
 - [Obsidian](https://obsidian.md/) — Knowledge base on local Markdown files.
 - [Linear](https://linear.app/) — Issue tracking and project management.
 - [Notion](https://www.notion.com/) — All-in-one workspace for docs and projects.
+- [DevBox Tools](https://devbox.tools/) — Free browser-based developer toolbox with 58+ utilities.
 - [1Password](https://1password.com/) — Password manager and secure vault.
 
 ---
