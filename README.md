@@ -103,6 +103,8 @@ _Browser-based tools that need no installation._
 - [Zustand](https://github.com/pmndrs/zustand) — Small, fast state management for React.
 - [Recharts](https://recharts.org/) — Composable charting library for React.
 
+- [Payload Components](https://www.payload-components.xyz) — MIT registry and CLI for 67 typed Payload CMS blocks on Payload v3 + Next.js 15/16; installs source and automates Pages, renderer, types, and admin import-map wiring.
+
 ## AI & LLM Tools
 
 - [OpenAI API](https://platform.openai.com/) — GPT models, embeddings, and DALL·E.
