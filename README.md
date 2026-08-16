@@ -65,6 +65,7 @@ _Browser-based tools that need no installation._
 
 ## Testing & Debugging
 
+- [Agent QA](https://github.com/vostride/agent-qa) — Source-available QA agent for natural-language web and mobile tests, with persistent test memory, a CLI, and an MCP server.
 - [Playwright](https://playwright.dev/) — Cross-browser end-to-end testing framework.
 - [Vitest](https://vitest.dev/) — Blazing fast unit test framework for Vite projects.
 - [Selenium](https://www.selenium.dev/) — Browser automation for testing.
