@@ -114,6 +114,8 @@ _Browser-based tools that need no installation._
 
 ## Productivity
 
+- [Codex Quota Overlay](https://github.com/cpys/codex-quota-overlay) — Open-source Windows overlay and local quota dashboard for Codex Desktop.
+
 - [iTerm2](https://iterm2.com/) — macOS terminal emulator with split panes.
 - [Warp](https://www.warp.dev/) — Modern Rust-based terminal with AI.
 - [Raycast](https://www.raycast.com/) — macOS launcher and productivity tool.
