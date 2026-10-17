@@ -35,6 +35,7 @@
 
 _Browser-based tools that need no installation._
 
+- [BestJSON JSON Diff](https://bestjson.com/json-diff) — Compare JSON structures and inspect added, removed or changed values by path in the browser.
 - [**Calnex**](https://calnex.pro) — 147+ online utilities for developers: unit converters, base/radix converter, QR code generator, JSON tools, and more. All run locally — zero data upload. 12 languages.
 - [CyberChef](https://gchq.github.io/CyberChef/) — The Cyber Swiss Army Knife: encryption, encoding, compression, and data analysis.
 - [JSON Formatter & Validator](https://jsonformatter.curiousconcept.com/) — JSON pretty-print and validation.
