@@ -86,6 +86,7 @@ _ブラウザベースでインストール不要のツール。_
 ## データベースツール
 
 - [DBeaver](https://dbeaver.io/) — デベロッパー向けユニバーサルデータベースツール。
+- [Glim](https://github.com/NeoPanic/Glim) — SQLite の読み取り専用閲覧、JSON ツリー、CSV テーブルに対応する macOS ファイルビューアー。
 - [TablePlus](https://tableplus.com/) — モダンでネイティブなデータベース GUI。
 - [RedisInsight](https://redis.com/redis-enterprise/redis-insight/) — Redis の可視化と管理 GUI。
 - [pgAdmin](https://www.pgadmin.org/) — PostgreSQL 管理・開発プラットフォーム。

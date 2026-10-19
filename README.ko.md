@@ -86,6 +86,7 @@ _설치가 필요 없는 브라우저 기반 도구입니다._
 ## 데이터베이스 도구
 
 - [DBeaver](https://dbeaver.io/) — 개발자용 범용 데이터베이스 도구.
+- [Glim](https://github.com/NeoPanic/Glim) — SQLite 읽기 전용 탐색, JSON 트리, CSV 테이블을 지원하는 macOS 파일 뷰어.
 - [TablePlus](https://tableplus.com/) — 모던 네이티브 데이터베이스 GUI.
 - [RedisInsight](https://redis.com/redis-enterprise/redis-insight/) — Redis 시각화 및 관리 GUI.
 - [pgAdmin](https://www.pgadmin.org/) — PostgreSQL 관리 및 개발 플랫폼.

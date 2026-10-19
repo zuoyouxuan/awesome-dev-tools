@@ -86,6 +86,7 @@ _基于浏览器的工具，无需安装。_
 ## 数据库工具
 
 - [DBeaver](https://dbeaver.io/) — 通用数据库工具。
+- [Glim](https://github.com/NeoPanic/Glim) — macOS 文件查看器，支持只读 SQLite 浏览、JSON 树和 CSV 表格。
 - [TablePlus](https://tableplus.com/) — 现代化的原生数据库 GUI。
 - [RedisInsight](https://redis.com/redis-enterprise/redis-insight/) — Redis GUI 可视化管理。
 - [pgAdmin](https://www.pgadmin.org/) — PostgreSQL 管理和开发平台。

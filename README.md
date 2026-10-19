@@ -86,6 +86,7 @@ _Browser-based tools that need no installation._
 ## Database Tools
 
 - [DBeaver](https://dbeaver.io/) — Universal database tool for developers.
+- [Glim](https://github.com/NeoPanic/Glim) — macOS file viewer for read-only SQLite inspection, JSON trees and CSV tables.
 - [TablePlus](https://tableplus.com/) — Modern, native database GUI.
 - [RedisInsight](https://redis.com/redis-enterprise/redis-insight/) — Redis GUI for visualization and management.
 - [pgAdmin](https://www.pgadmin.org/) — PostgreSQL administration and development platform.
