@@ -65,6 +65,7 @@ _Browser-based tools that need no installation._
 
 ## Testing & Debugging
 
+- [Kilobat CLI](https://github.com/seifip/kilobat-cli) — macOS host network diagnostics with JSON output.
 - [Playwright](https://playwright.dev/) — Cross-browser end-to-end testing framework.
 - [Vitest](https://vitest.dev/) — Blazing fast unit test framework for Vite projects.
 - [Selenium](https://www.selenium.dev/) — Browser automation for testing.
