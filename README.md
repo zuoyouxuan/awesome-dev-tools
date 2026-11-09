@@ -43,6 +43,7 @@ _Browser-based tools that need no installation._
 - [Carbon](https://carbon.now.sh/) — Create and share beautiful code screenshots.
 - [Excalidraw](https://excalidraw.com/) — Virtual whiteboard for sketching diagrams and architectures.
 - [CodeSandbox](https://codesandbox.io/) — Online IDE for rapid web prototyping.
+- [PageUtil Regex Tester](https://pageutil.com/regex-tester/) — Test patterns locally across seven regex engines with reusable test cases and match, replace, extract and split modes.
 - [QR Code Generator](https://calnex.pro/en_US/tools/qr_code_generator) — Custom QR codes with colors, sizes, and formats.
 
 ## API Development
